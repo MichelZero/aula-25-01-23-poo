@@ -1,6 +1,6 @@
 # importa a classe Tk
 #
-from tkinter import *
+from tkinter import * # importa tudo da biblioteca tkinter e coloca na memória do computador para ser usado
 
 janela1 = Tk() # iniciar a janela
 # inicio 
